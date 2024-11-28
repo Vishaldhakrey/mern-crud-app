@@ -29,5 +29,5 @@ Ensure the following are installed on your system:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone[ <repository-url>](https://github.com/Vishaldhakrey/mern-crud-app)
+cd mern-crud-app
